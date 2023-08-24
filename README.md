@@ -8,7 +8,7 @@ Ambitious entry-level Software Engineer with a strong desire to apply my educati
 
 * ✉️  You can contact me at [shageeth32@gmail.com](mailto:shageeth32@gmail.com)
 * 🚀  I'm currently working on [NRML](http://nrml.ca)
-* 🧠  I'm learning Swift UI
+* 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on MERN STACK or SWIFT projects
 
 ### Skills
