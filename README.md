@@ -9,7 +9,7 @@ Ambitious entry-level Software Engineer with a strong desire to apply my educati
 * ✉️  You can contact me at [shageeth32@gmail.com](mailto:shageeth32@gmail.com)
 * 🚀  I'm currently working on [PLAY]([http://nrml.ca](https://github.com/shaggy3232/PLAY-BACKEND-GO))
 * 🧠  I'm learning GoLang
-* 🤝  I'm open to collaborating on MERN STACK or SWIFT projects
+* 🤝  I'm open to collaborating
 
 ### Skills
 
