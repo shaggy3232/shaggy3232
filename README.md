@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Ambitious entry-level Software Engineer with a strong desire to apply my education to industrial and consumer-level product development. Committed to successful project rollouts with ability to work with all types of personalities. Background working with cutting-edge technologies and emerging concepts. Ever since my first experience with technology as a child, I was hooked. It was what I wanted to spend the rest of my life learning about. From taking apart my first computer, to printing my first “Hello World!” to the late nights on Stack Overflow debugging my projects, I was infatuated by how much of an impact technology has on our daily lives. I made it my mission to gain as much knowledge as I can and do whatever I can to make an impact with technology.
+Ambitious entry-level Software Engineer with a strong desire to apply my education to industrial and consumer-level product development. Committed to successful project rollouts with the ability to work with all types of personalities. Background working with cutting-edge technologies and emerging concepts. Ever since my first experience with technology as a child, I was hooked. It was what I wanted to spend the rest of my life learning about. From taking apart my first computer, to printing my first “Hello World!” to the late nights on Stack Overflow debugging my projects, I was infatuated by how much of an impact technology has on our daily lives. I made it my mission to gain as much knowledge as I can and do whatever I can to make an impact with technology.
 
 * ✉️  You can contact me at [shageeth32@gmail.com](mailto:shageeth32@gmail.com)
 * 🚀  I'm currently working on [PLAY]([http://nrml.ca](https://github.com/shaggy3232/PLAY-BACKEND-GO))
@@ -37,7 +37,7 @@ Ambitious entry-level Software Engineer with a strong desire to apply my educati
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+```
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/shaggy3232" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
@@ -49,3 +49,5 @@ Ambitious entry-level Software Engineer with a strong desire to apply my educati
 <a href="http://www.github.com/shaggy3232"><img src="https://github-readme-stats.vercel.app/api?username=shaggy3232&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaggy3232's GitHub stats" /></a>
 
 <a href="https://github.com/shaggy3232" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy3232&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+```
